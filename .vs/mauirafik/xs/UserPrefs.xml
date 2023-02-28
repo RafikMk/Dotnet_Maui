@@ -6,7 +6,7 @@
       <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.MacCatalyst.Sdk/16.2.19/tools/msbuild/iOS/Xamarin.Shared.targets" />
       <File FileName="mauirafik/MainPage.xaml" />
       <File FileName="mauirafik/NewPage1.xaml" />
-      <File FileName="mauirafik/AppShell.xaml" Line="20" Column="3" />
+      <File FileName="mauirafik/AppShell.xaml" Line="20" Column="5" />
       <File FileName="mauirafik/AppShell.xaml.cs" />
       <File FileName="mauirafik/NewPage1.xaml.cs" />
     </Files>
